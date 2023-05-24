@@ -1,4 +1,4 @@
-
 # GifExpertApp
 
-Este es mi repositorio del proyecto de GifExpertApp
+Este es mi repositorio del proyecto de GifExpertApp de React
+
