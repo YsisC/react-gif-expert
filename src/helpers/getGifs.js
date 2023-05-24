@@ -1,4 +1,4 @@
-// import {useEffect} from 'react'e
+
 export const getGifs = async (category) => {
     const url = `https://api.giphy.com/v1/gifs/search?api_key=2GS7HSLOvI1NDEAnpgKJQdjqZ83c7TMr&q=${category}&limit=10`
     const resp = await fetch(url)
